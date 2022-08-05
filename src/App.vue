@@ -250,5 +250,6 @@ import { ref , computed } from 'vue'
     .photo {
         width: 500px;
         height: 300px;
+
     }
 </style>

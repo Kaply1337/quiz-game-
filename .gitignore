@@ -9,6 +9,10 @@ lerna-debug.log*
 
 node_modules
 dist
+public
+.vscode
+.gitignore
+
 dist-ssr
 *.local
 
